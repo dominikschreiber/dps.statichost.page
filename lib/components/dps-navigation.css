@@ -1,0 +1,9 @@
+dps-navigation {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+
+  .active {
+    font-weight: bold;
+  }
+}
