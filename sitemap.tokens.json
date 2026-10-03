@@ -1,0 +1,32 @@
+{
+  "$type": "string",
+  "$root": { "$value": "Startseite" },
+  "software": {
+    "$root": { "$value": "Software" }
+  },
+  "musik": {
+    "$root": { "$value": "Musik" },
+    "tasten": { "$root": { "$value": "Tasten" } },
+    "saiten": { "$root": { "$value": "Saiten" } },
+    "blech": { "$root": { "$value": "Blech" } }
+  },
+  "glaube": {
+    "$root": { "$value": "Glaube" }
+  },
+  "kaffee": {
+    "$root": { "$value": "Kaffee" },
+    "equipment": { "$root": { "$value": "Equipment" } }
+  },
+  "klemmbausteine": {
+    "$root": { "$value": "Klemmbausteine" },
+    "kloster-blaubrunn": { "$root": { "$value": "Kloster Blaubrunn" } },
+    "burg-blaustein": { "$root": { "$value": "Burg Blaustein" } },
+    "burg-barenfels": { "$root": { "$value": "Burg Bärenfels" } }
+  },
+  "rollenspiel": {
+    "$root": { "$value": "Rollenspiel" }
+  },
+  "impressum": {
+    "$root": { "$value": "Impressum" }
+  }
+}
